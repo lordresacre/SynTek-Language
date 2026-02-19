@@ -158,40 +158,33 @@ personal or experimental use, provided that:
 
 ---
 
-## ARTICLE 4 — COMMERCIAL USE
+## ARTICLE 4 — COMMERCIAL USE & ENTERTAINMENT
 
-**4.1 Non-Commercial Use: Free.**
-All non-commercial use of the Language is free and requires no
-authorization beyond compliance with this license.
+4.1 Non-Commercial Use: Free. All non-commercial use of the Language is free and requires no authorization beyond compliance with this license.
 
-**4.2 Commercial Use: Authorization Required.**
-Any Commercial Use of the Language requires the **prior written
-authorization** of Julien Maurel. This includes but is not limited to:
-- Selling products or services that incorporate the Language
-- Using the Language in paid courses, workshops, or training programs
-- Integrating the Language into commercial software or AI products
-- Publishing books, guides, or materials about the Language for profit
-- Creating paid applications or tools based on the Language
-- Using the Language in advertising or marketing materials
+4.2 General Commercial Use: Authorization Required. Except as provided in Article 4.6, any Commercial Use of the Language requires the prior written authorization of Julien Maurel.
 
-**4.3 Revenue Sharing.**
-Any authorized Commercial Use may be subject to a revenue sharing
-agreement at the Creator's discretion. Terms will be negotiated on a
-case-by-case basis.
+4.3 Revenue Sharing. Any authorized Commercial Use under Article 4.2 may be subject to a revenue sharing agreement at the Creator's discretion.
 
-**4.4 Exceptions.**
-The following commercial activities do NOT require authorization:
-- Using the Language in personal communication within a commercial context
-  (e.g., speaking Syn'Tek at work)
-- Mentioning or referencing the Language in commercial publications
-  (journalism, reviews, etc.) under fair use
-- Creating free, open-source tools that support the Language
-  (with proper attribution)
+4.4 Exceptions. The following commercial activities do NOT require authorization:
 
-**4.5 Contact for Commercial Licensing.**
-For commercial use inquiries, contact: **Julien Maurel** via the official
-Syn'Tek repository or through designated communication channels listed
-in the repository.
+Using the Language in personal communication within a commercial context.
+
+Mentioning the Language in commercial publications (journalism, reviews) under fair use.
+
+Creating free, open-source tools that support the Language (with proper attribution).
+
+4.5 Contact for Commercial Licensing. For inquiries, contact: Julien Maurel via the official Syn'Tek repository.
+
+4.6 SPECIAL PROVISION: DIGITAL ENTERTAINMENT (Games & Apps). Automatic Authorization: The Creator grants a worldwide, royalty-free, perpetual license to developers and studios to integrate the Syn'Tek Language into video games, mobile applications, and interactive media without prior consultation, provided that:
+
+Mandatory Attribution: The credits must clearly state: "Syn'Tek Language created by Julien Maurel".
+
+Product Intent: The primary purpose of the software is NOT the sale or distribution of the Language itself (e.g., a paid Syn'Tek dictionary or translator app requires authorization under 4.2).
+
+Integrity: The implementation follows the Syn'Tek v3.0 syntax rules. Any major deviation must be labeled as an "Unofficial Dialect".
+
+No IP Claim: The developer cannot claim any intellectual property over the Language used within their product.
 
 ---
 
