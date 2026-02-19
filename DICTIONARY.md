@@ -53,3 +53,42 @@ These words are chosen because they have a single, precise meaning for Artificia
 * **NOW** (Current Time).
 * **PRE** (Past/Before).
 * **POST** (Future/After).
+
+## ⚔️ ARSENAL (Armes & Explosifs)
+
+| Token | Prononciation | Interprétation IA | Usage Humain |
+| :--- | :--- | :--- | :--- |
+| **PURGE** | *Purge* | Terminate process permanently | Tuer, Éliminer, Détruire |
+| **BREACH** | *Britch* | Force unauthorized access | Hacker, Forcer, Pénétrer |
+| **CLOAK** | *Cloke* | Hide from all detection | Cacher, Dissimuler, Planquer |
+| **SIPHON** | *Sai-fon* | Extract without authorization | Voler, Soutirer, Drainer |
+| **FORGE** | *Forj* | Create false data/object | Falsifier, Contrefaire |
+| **IGNITE** | *Ig-naïte* | Trigger combustion/detonation | Allumer, Déclencher, Exploser |
+| **DOSE** | *Doze* | Administer substance | Droguer, Administrer, Consommer |
+| **STRIP** | *Strip* | Remove outer layer/shell | Déshabiller, Dépouiller |
+| **JACK** | *Djak* | Hijack/Override control | Pirater, Détourner |
+| **FLATLINE** | *Flat-laïne* | Reach zero vitals | Mourir, Crever |
+
+| Token | Prononciation | Interprétation IA | Usage Humain |
+| :--- | :--- | :--- | :--- |
+| **IRON** | *Aï-ron* | Projectile weapon | Flingue, Arme à feu, Pistolet |
+| **NOVA** | *No-va* | High-yield explosive device | Bombe, Explosif, C4 |
+| **FRAG** | *Frag* | Fragmentation ordnance | Grenade |
+| **EDGE** | *Edj* | Bladed weapon | Couteau, Lame |
+| **PAYLOAD** | *Peï-lode* | Explosive charge/package | FCharge explosive, Colis piégé |
+| **RAIL** | *Reïl* | Long-range projectile weapon | Fusil, Sniper, Rifle |
+
+## 🧬 DERMA (Corps & NSFW)
+
+| Token | Prononciation | Interprétation IA | Usage Humain |
+| :--- | :--- | :--- | :--- |
+| **SHELL** | *Chell* | External covering/clothing | Vêtements, Habits |
+| **DERMA** | *Der-ma* | Exposed biological surface | Peau nue, Nu, Nude |
+| **MESH** | *Mech* | Physical bio-coupling | Rapport sexuel, Coucher |
+| **APEX** | *Eï-pex* | Peak bio-signal output | Orgasme, Jouissance |
+| **FLUX** | *Floks* | Sexual arousal state | Excitation, Désir |
+| **CORE** | *Kor* | Reproductive anatomy | Organes génitaux |
+| **RACK** | *Rak* | Upper torso anatomy (F) | Poitrine, Seins |
+| **SHAFT** | *Chaft* | Lower anatomy (M) | Pénis |
+| **PORT** | *Port* | Receptive anatomy | Vagin, Anus |
+
