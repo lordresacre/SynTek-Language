@@ -23,7 +23,7 @@ Syn'Tek is the bridge.
 
 It is a Constructed Language (Conlang) designed for the Cyberpunk Era:
 
-For Humans: It sounds authoritative, rhythmic, and cool (Sci-Fi/Stargate vibe).
+For Humans: It sounds authoritative, rhythmic, and cool.
 
 For AI: It uses Semantic Tokens that every LLM (GPT, Claude, Llama) understands natively (Zero-Shot) without translation.
 
