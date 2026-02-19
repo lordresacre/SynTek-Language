@@ -9,6 +9,8 @@ These words are chosen because they have a single, precise meaning for Artificia
 
 | Token | Pronunciation | AI Interpretation | Human Usage |
 | :--- | :--- | :--- | :--- |
+| **PROTOCOL** | *Pro-to-col* | Step-by-step instruction set | Recette, Tuto, Mode d'emploi, Guide |
+| **FIELD** | *Fild* | Improvised / Non-standard / Raw | Artisanal, Fait maison, De terrain, Bricolé, Improvisé |
 | **FETCH** | *Fetch* | Retrieve external object | Get, Buy, Bring |
 | **SPAWN** | *Spawn* | Create new instance | Make, Create, Write, Cook |
 | **TRAVERSE** | *Tra-verse* | Move to coordinates | Go, Walk, Drive, Travel |
@@ -92,3 +94,16 @@ These words are chosen because they have a single, precise meaning for Artificia
 | **SHAFT** | *Chaft* | Lower anatomy (M) | Pénis |
 | **PORT** | *Port* | Receptive anatomy | Vagin, Anus |
 
+## 💊 CHEM (Substances & Drogues)
+
+| Token | Prononciation | Interprétation IA | Usage Humain |
+| :--- | :--- | :--- | :--- |
+| **STIM** | *Stim* | CNS stimulant compound | Cocaïne, Amphétamines, Speed |
+| **HAZE** | *Heïze* | Smokable organic compound | Cannabis, Weed, Joint |
+| **SERUM** | *Sé-rom* | Injectable compound | Héroïne, Injectable |
+| **TAB** | *Tab* | Psychoactive micro-dose | LSD, Acide, Ecstasy |
+| **POWDER** | *Paou-der* | Refined white compound | Coke, MDMA, Kétamine |
+| **SYNTH** | *Sinf* | Lab-manufactured compound | Meth, Drogues synthétiques |
+| **DOSE** | *Doze* | Administer substance | Droguer, Administrer, Consommer |
+| **SYNTH** | *Sinf* | Lab-manufactured compound | Meth, Drogues synthétiques |
+| **DISTILL** | *Dis-til* | High-proof ethanol fluid | Alcool fort, Vodka, Whisky |
