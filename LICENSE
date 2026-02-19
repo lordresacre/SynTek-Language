@@ -1,21 +1,419 @@
-MIT License
+<!-- ============================================================ -->
+<!-- FILE: LICENSE.md                                               -->
+<!-- Syn'Tek Language — Custom Protective License                   -->
+<!-- ============================================================ -->
 
-Copyright (c) 2026 Syn'Tek Project (Mauritius Node)
+# SYN'TEK LANGUAGE LICENSE
+## Version 1.0 — February 19, 2026
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+# SYNTEK CREATIVE OWNERSHIP LICENSE (SCOL v1.0)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+**Copyright © 2026 Julien Maurel. All Rights Reserved.**
+
+---
+
+## PREAMBLE
+
+This license governs the use, modification, distribution, and contribution
+to the **Syn'Tek Language** (hereinafter "the Language"), including but
+not limited to: its syntax, grammar rules, operators, semantic tokens,
+dictionary, phonetic system, sentence structures, expansion packs,
+documentation, field manuals, wiki content, and all associated
+intellectual property.
+
+The Language was **solely created, designed, and developed by
+Julien Maurel** (hereinafter "the Creator"), originating from Mauritius.
+
+This license exists to:
+1. Protect the Creator's exclusive intellectual property rights
+2. Allow the global community to use and improve the Language
+3. Prevent any person or entity from claiming ownership or creatorship
+4. Ensure the Language remains open for use but owned by its Creator
+
+---
+
+## ARTICLE 1 — DEFINITIONS
+
+**1.1 "The Language"** refers to Syn'Tek in its entirety: all syntax rules,
+operators (::, >>, //, !), semantic tokens, dictionary entries, grammar
+rules, phonetic guides, number systems, time systems, domain expansions
+(PULSE, VITA, OPS, WARZONE, CYPHER, TERRA, SIGNAL, CLASSIFIED), example
+sentences, field manuals, wiki pages, and any future additions to the
+Syn'Tek ecosystem.
+
+**1.2 "The Creator"** refers exclusively to **Julien Maurel**, the sole
+author, inventor, and intellectual property owner of the Language.
+
+**1.3 "User"** refers to any individual, group, organization, company,
+or artificial intelligence system that uses, studies, teaches, speaks,
+writes, or interacts with the Language.
+
+**1.4 "Contributor"** (also "Prime") refers to any User who submits new
+tokens, rules, examples, translations, or improvements to the Language.
+
+**1.5 "Contribution"** refers to any addition, modification, translation,
+expansion, or improvement submitted to the Language by a Contributor.
+
+**1.6 "Derivative Work"** refers to any project, product, service,
+application, or work that is built upon, incorporates, or is substantially
+based on the Language.
+
+**1.7 "Commercial Use"** refers to any use of the Language intended to
+generate revenue, profit, or commercial advantage, whether directly or
+indirectly.
+
+---
+
+## ARTICLE 2 — INTELLECTUAL PROPERTY & OWNERSHIP
+
+**2.1 Sole Creatorship.**
+Julien Maurel is the sole and exclusive creator of the Syn'Tek Language.
+No person, entity, organization, company, or artificial intelligence may
+claim to have created, co-created, invented, or co-invented the Language,
+in whole or in part.
+
+**2.2 Exclusive Ownership.**
+All intellectual property rights, including but not limited to copyright,
+moral rights, trademark rights, patent rights, and trade secret rights
+pertaining to the Language belong exclusively and perpetually to
+Julien Maurel.
+
+**2.3 Moral Rights.**
+The Creator retains all moral rights over the Language, including:
+- The right of attribution (to be identified as the Creator)
+- The right of integrity (to object to derogatory treatment)
+- The right of disclosure (to decide when and how the Language is published)
+
+These moral rights are **inalienable, non-transferable, and perpetual**.
+
+**2.4 Name & Brand Protection.**
+The names "Syn'Tek", "SynTek", "Syn-Tek", "SYNTEK", and all variations
+thereof, as well as associated logos, symbols, and branding elements, are
+the exclusive property of Julien Maurel. No person or entity may register
+these as trademarks, domain names, social media handles, or brand names
+without the Creator's explicit written authorization.
+
+**2.5 No Transfer of Ownership.**
+This license does NOT transfer any ownership rights to any User or
+Contributor. Users receive a license to USE the Language, not to OWN it.
+
+---
+
+## ARTICLE 3 — GRANTED RIGHTS (What Users CAN Do)
+
+Subject to the terms of this license, the Creator grants all Users a
+**worldwide, non-exclusive, royalty-free, non-transferable, revocable
+license** to:
+
+**3.1 Use.**
+Users may use the Language for any purpose, including but not limited to:
+- Personal communication (spoken and written)
+- Education and teaching
+- Research and academic study
+- Creative writing, fiction, and worldbuilding
+- AI training and prompt engineering
+- Software development and integration
+- Community building and discussion
+
+**3.2 Learn & Teach.**
+Users may learn, study, practice, and teach the Language to others,
+provided that:
+- The Creator is always credited as the sole inventor
+- This license is referenced in any teaching materials
+- No teacher or institution claims ownership of the Language
+
+**3.3 Contribute & Improve.**
+Users may submit new tokens, rules, examples, translations, expansions,
+and improvements to the Language through the official contribution
+process (Pull Requests on the official repository), subject to Article 5.
+
+**3.4 Share & Distribute.**
+Users may share, copy, and distribute the Language documentation,
+provided that:
+- This license is included in full with any distribution
+- The Creator is credited as sole inventor
+- The content is not modified in a way that misrepresents the Creator's
+  work or intentions
+- No fee is charged for the Language itself (see Article 4 for
+  Commercial Use)
+
+**3.5 Create Derivative Works.**
+Users may create tools, applications, plugins, translators, dictionaries,
+bots, and other works that USE the Language, provided that:
+- The derivative work clearly states: "Based on Syn'Tek, created by
+  Julien Maurel"
+- The derivative work does not claim to BE the Language or to replace it
+- This license is referenced in the derivative work's documentation
+
+**3.6 Fork & Modify.**
+Users may fork the official repository and create modified versions for
+personal or experimental use, provided that:
+- Modified versions are clearly labeled as "Modified" or "Unofficial"
+- Modified versions do NOT use the name "Syn'Tek" without the prefix
+  "Modified" or "Unofficial" or a clearly different name
+- The original Creator is credited in all modified versions
+- Modified versions include this license in full
+
+---
+
+## ARTICLE 4 — COMMERCIAL USE
+
+**4.1 Non-Commercial Use: Free.**
+All non-commercial use of the Language is free and requires no
+authorization beyond compliance with this license.
+
+**4.2 Commercial Use: Authorization Required.**
+Any Commercial Use of the Language requires the **prior written
+authorization** of Julien Maurel. This includes but is not limited to:
+- Selling products or services that incorporate the Language
+- Using the Language in paid courses, workshops, or training programs
+- Integrating the Language into commercial software or AI products
+- Publishing books, guides, or materials about the Language for profit
+- Creating paid applications or tools based on the Language
+- Using the Language in advertising or marketing materials
+
+**4.3 Revenue Sharing.**
+Any authorized Commercial Use may be subject to a revenue sharing
+agreement at the Creator's discretion. Terms will be negotiated on a
+case-by-case basis.
+
+**4.4 Exceptions.**
+The following commercial activities do NOT require authorization:
+- Using the Language in personal communication within a commercial context
+  (e.g., speaking Syn'Tek at work)
+- Mentioning or referencing the Language in commercial publications
+  (journalism, reviews, etc.) under fair use
+- Creating free, open-source tools that support the Language
+  (with proper attribution)
+
+**4.5 Contact for Commercial Licensing.**
+For commercial use inquiries, contact: **Julien Maurel** via the official
+Syn'Tek repository or through designated communication channels listed
+in the repository.
+
+---
+
+## ARTICLE 5 — CONTRIBUTIONS
+
+**5.1 Contribution License Grant.**
+By submitting a Contribution to the Language (via Pull Request or any
+other submission method), the Contributor irrevocably grants to
+Julien Maurel:
+- A **worldwide, perpetual, irrevocable, royalty-free, non-exclusive
+  license** to use, modify, distribute, sublicense, and incorporate the
+  Contribution into the Language
+- The right to modify, adapt, or reject the Contribution at the Creator's
+  sole discretion
+- The right to credit or not credit the Contributor (though the Creator
+  will make best efforts to acknowledge Contributors)
+
+**5.2 No Ownership Transfer.**
+Submitting a Contribution does NOT grant the Contributor any ownership
+rights over:
+- The Language as a whole
+- Any part of the Language that existed before the Contribution
+- The Syn'Tek name, brand, or intellectual property
+
+**5.3 Contributor Credit.**
+Contributors ("Primes") will be acknowledged in the project's
+Contributors file or documentation at the Creator's discretion. This
+acknowledgment does NOT imply co-ownership, co-creatorship, or any
+intellectual property rights.
+
+**5.4 Original Work.**
+Contributors warrant that their Contributions are original work and do
+not infringe on any third-party intellectual property rights. Contributors
+are solely responsible for ensuring their Contributions are legally clean.
+
+**5.5 Right of Removal.**
+The Creator reserves the absolute right to remove, modify, or replace
+any Contribution at any time, for any reason, without obligation to the
+Contributor.
+
+---
+
+## ARTICLE 6 — RESTRICTIONS (What Users CANNOT Do)
+
+Users and Contributors are strictly prohibited from:
+
+**6.1 Claiming Creatorship.**
+No person or entity may claim to have created, invented, designed, or
+co-created the Syn'Tek Language. Julien Maurel is the sole creator.
+Any false claim of creatorship constitutes a violation of this license
+and may be subject to legal action.
+
+**6.2 Claiming Ownership.**
+No person or entity may claim ownership of the Language, in whole or in
+part. The Language belongs exclusively to Julien Maurel.
+
+**6.3 Removing Attribution.**
+No person or entity may remove, obscure, or modify the Creator's name,
+copyright notice, or this license from any copy or distribution of the
+Language.
+
+**6.4 Registering IP.**
+No person or entity may:
+- File trademark applications for "Syn'Tek" or variations thereof
+- File patent applications covering the Language's syntax or methods
+- File copyright registrations claiming authorship of the Language
+- Register domain names using "Syn'Tek" or confusingly similar names
+  without the Creator's explicit written authorization
+
+**6.5 Misrepresentation.**
+No person or entity may:
+- Present a modified version as the official Language
+- Imply endorsement by the Creator without authorization
+- Use the Language's name or brand in a way that damages its reputation
+- Create a competing language using substantially similar tokens and
+  syntax without original creative contribution
+
+**6.6 Sublicensing.**
+No person or entity may sublicense the Language or grant rights to third
+parties beyond what this license explicitly permits.
+
+**6.7 Hostile Forking.**
+No person or entity may fork the Language with the intent of:
+- Replacing the official Language
+- Claiming the fork as the "real" or "original" Syn'Tek
+- Diverting the community from the official project
+- Competing with the Creator's authority over the Language
+
+---
+
+## ARTICLE 7 — ENFORCEMENT & VIOLATIONS
+
+**7.1 License Termination.**
+Any violation of this license automatically and immediately terminates
+the violator's rights under this license. Upon termination:
+- The violator must immediately cease all use of the Language
+- The violator must remove all copies and derivative works
+- The violator must publicly retract any false claims
+
+**7.2 Legal Action.**
+The Creator reserves the right to pursue legal action against any
+person or entity that violates this license, including but not limited
+to claims for:
+- Copyright infringement
+- Trademark infringement
+- Moral rights violation
+- Unfair competition
+- Damages and legal costs
+
+**7.3 DMCA & Takedowns.**
+The Creator reserves the right to issue DMCA takedown notices or
+equivalent legal requests against any unauthorized use, distribution,
+or misrepresentation of the Language on any platform, including but not
+limited to GitHub, social media, websites, and application stores.
+
+**7.4 Jurisdiction.**
+This license shall be governed by and construed in accordance with the
+laws of the **Republic of Mauritius**, without regard to its conflict of
+law provisions. Any disputes arising from this license shall be subject
+to the exclusive jurisdiction of the courts of Mauritius.
+
+**7.5 Good Faith Resolution.**
+Before initiating legal proceedings, the Creator will make reasonable
+efforts to resolve disputes through direct communication. Violators are
+encouraged to contact the Creator promptly upon becoming aware of any
+violation.
+
+---
+
+## ARTICLE 8 — WARRANTY & LIABILITY
+
+**8.1 No Warranty.**
+THE LANGUAGE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+**8.2 Limitation of Liability.**
+IN NO EVENT SHALL THE CREATOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE LANGUAGE OR THE USE OR OTHER
+DEALINGS IN THE LANGUAGE.
+
+**8.3 User Responsibility.**
+Users are solely responsible for how they use the Language. The Creator
+is not responsible for any consequences arising from the use of the
+Language, including but not limited to: misunderstandings, offensive use,
+illegal activities, or AI misinterpretation.
+
+---
+
+## ARTICLE 9 — GENERAL PROVISIONS
+
+**9.1 Severability.**
+If any provision of this license is found to be invalid or unenforceable,
+the remaining provisions shall remain in full force and effect.
+
+**9.2 Entire Agreement.**
+This license constitutes the entire agreement between the Creator and
+any User regarding the Language. No prior agreements, understandings, or
+representations shall have any effect.
+
+**9.3 Amendments.**
+The Creator reserves the right to modify this license at any time. Updated
+versions will be published on the official repository. Continued use of
+the Language after a license update constitutes acceptance of the new
+terms.
+
+**9.4 No Waiver.**
+The Creator's failure to enforce any provision of this license does not
+constitute a waiver of that provision or any other provision.
+
+**9.5 Survival.**
+Articles 2 (Intellectual Property), 5.1 (Contribution License Grant),
+6 (Restrictions), and 7 (Enforcement) shall survive any termination or
+expiration of this license.
+
+---
+
+## ARTICLE 10 — CREATOR DECLARATION
+
+I, **Julien Maurel**, hereby declare that:
+
+1. I am the sole creator and inventor of the Syn'Tek Language
+2. I created the Language independently, without co-authors or co-creators
+3. The Language is my original intellectual work
+4. I retain all intellectual property rights, moral rights, and
+   ownership rights over the Language in perpetuity
+5. I grant the community the right to use and improve the Language
+   under the terms of this license
+6. No Contribution, no matter how significant, grants any Contributor
+   ownership or co-creatorship of the Language
+
+**Origin:** Mauritius
+**Date of Creation:** 2026
+**First Publication:** February 2026
+**Official Repository:** [GitHub — Syn'Tek Project]
+
+---
+
+## SUMMARY TABLE
+
+| Right | Creator | User | Contributor |
+| :--- | :---: | :---: | :---: |
+| Ownership of the Language | ✅ Exclusive | ❌ | ❌ |
+| Creatorship claim | ✅ Sole Creator | ❌ | ❌ |
+| Moral rights | ✅ Perpetual | ❌ | ❌ |
+| Trademark rights | ✅ Exclusive | ❌ | ❌ |
+| Use the Language | ✅ | ✅ | ✅ |
+| Teach the Language | ✅ | ✅ (with credit) | ✅ (with credit) |
+| Share & distribute | ✅ | ✅ (with license) | ✅ (with license) |
+| Submit improvements | ✅ | ✅ | ✅ |
+| Create derivative works | ✅ | ✅ (with credit) | ✅ (with credit) |
+| Commercial use (free) | ✅ | ❌ (needs auth) | ❌ (needs auth) |
+| Modify & reject contributions | ✅ | ❌ | ❌ |
+| Remove contributions | ✅ | ❌ | ❌ |
+| Issue takedowns | ✅ | ❌ | ❌ |
+| License the Language | ✅ | ❌ | ❌ |
+| Fork (experimental, credited) | ✅ | ✅ | ✅ |
+| Fork (hostile, competing) | N/A | ❌ | ❌ |
+| Claim co-ownership | N/A | ❌ | ❌ |
+| Register trademarks/patents | ✅ | ❌ | ❌ |
+
+---
+
+## NOTICE
